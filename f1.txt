@@ -1,6 +1,6 @@
 demo
 
-this my demo 1 git
+this my second demo for demo 1
 demo 2
 
 demo 3
