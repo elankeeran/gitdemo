@@ -7,8 +7,12 @@ do 2nd changes
 
 here some more changes
 
+
 commit this changes
 
 local changes 1 stash
 
 2 more changes
+
+local changes 1 stash
+
